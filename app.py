@@ -1,4 +1,4 @@
-from utils import *
+from python.utils import *
 from views import *
 
 if __name__ == '__main__':
